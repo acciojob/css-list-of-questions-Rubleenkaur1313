@@ -1,2 +1,10 @@
-
-/* Your CSS Code here. */
+.questions {
+    background-color: #f8fffe; /* Background color */
+    height: 50px; /* Height of the block */
+    margin-top: 20px; /* Margin above each block */
+    padding: 15px; /* Padding inside the block */
+    max-width: 600px; /* Maximum width of the block */
+    border-left: 8px solid green; /* Left border styling */
+    display: flex; /* Use flexbox for alignment */
+    align-items: center; /* Center items vertically */
+}
